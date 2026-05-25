@@ -23,5 +23,59 @@ header {
     border-radius: 35px;
 }
 .main1 {
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.main2 {
    font-size: 60px;
+}
+.main3 {
+    font-size: 25px;
+    color: gray;
+}
+.main04 {
+     width: 500px;
+    height: 252px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 10px black;
+    border-radius: 8px;
+}
+.main4 {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+   
+}
+.main5 {
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+    
+}
+.main6 button {
+    font-size: 28px;
+    width: 218px;
+    height: 56px;
+    background-color: #dbdbdb;
+    border-radius: 8px;
+}
+.main8 img {
+    width: 50px;
+    background-color: blue;
+    border-radius: 8px
+}
+.main7 button{
+    font-size: 28px;
+    width: 400px;
+    height: 56px;
+    background-color: #dbdbdb;
+    border-radius: 8px;
+}
+.main8 {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
 }
