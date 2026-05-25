@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    gap: 10px;
+}
+.menu {
+    display: flex;
+    gap: 20px;
+}
+.menu1 {
+    display: flex;
+    gap: 20px;
+}
+.menu2 button{
+    width: 90px;
+    height: 30px;
+    border-radius: 35px;
+}
+.main1 {
+   font-size: 60px;
+}
